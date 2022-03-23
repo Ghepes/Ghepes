@@ -4,6 +4,16 @@
 - 💞️ I’m looking for collaborate with Team Wromo Studio for new ideas...
 - 📫 How to reach me info.wromo@gmail.com or support@wromo.com contact me if you are looking for a partner I am open to any new idea!
 
+echo
+echo '_|        _|        _|_|_|_|_|     _|_|_|    _|       _|   _|_|_| '
+echo ' _|      _|_|      _| _|     _|  _|     _| _| _|    _|_|  _|    _|'
+echo '  _|    _|  _|   _|   _|_|_|_|   _|     _| _|  _|  _| _|  _|    _|'
+echo '   _|  _|    _| _|    _| _|      _|     _| _|    _|   _|  _|    _|'
+echo '     _|       _|      _|   _|     _|_|_|   _|         _|   _|_|_| '
+echo                 
+
+
+
 <!---
 Ersin84/Ersin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
