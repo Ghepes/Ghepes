@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Flutter Dart Next.js Ads Clouds .PHP .JSON SQL Node.js .py .js 
 - 💞️ I’m looking for collaborate with Team Wromo Studio for new ideas...
 - 📫 How to reach me info.wromo@gmail.com or support@wromo.com contact me if you are looking for a partner I am open to any new idea!
-[
+{[
      
      '_|        _|        _|_|_|_|_|     _|_|_|    _|       _|     _| _|_|    '
      ' _|      _|_|      _| _|     _|  _|     _| _| _|    _|_|   _|       _|  '
@@ -12,7 +12,7 @@
      '     _|       _|      _|   _|     _|_|_|   _|         _|     _|_| _|    '
                  
 
-]
+]}
 
 <!---
 Ersin84/Ersin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
