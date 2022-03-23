@@ -4,13 +4,13 @@
 - 💞️ I’m looking for collaborate with Team Wromo Studio for new ideas...
 - 📫 How to reach me info.wromo@gmail.com or support@wromo.com contact me if you are looking for a partner I am open to any new idea!
 
-echo
-echo '_|        _|        _|_|_|_|_|     _|_|_|    _|       _|   _|_|_| '
-echo ' _|      _|_|      _| _|     _|  _|     _| _| _|    _|_|  _|    _|'
-echo '  _|    _|  _|   _|   _|_|_|_|   _|     _| _|  _|  _| _|  _|    _|'
-echo '   _|  _|    _| _|    _| _|      _|     _| _|    _|   _|  _|    _|'
-echo '     _|       _|      _|   _|     _|_|_|   _|         _|   _|_|_| '
-echo                 
+     
+     '_|        _|        _|_|_|_|_|     _|_|_|    _|       _|     _| _|_|    '
+     ' _|      _|_|      _| _|     _|  _|     _| _| _|    _|_|   _|       _|  '
+     '  _|    _|  _|   _|   _|_|_|_|   _|     _| _|  _|  _| _|  _|         _| '
+     '   _|  _|    _| _|    _| _|      _|     _| _|    _|   _|   _|       _|  '
+     '     _|       _|      _|   _|     _|_|_|   _|         _|     _|_| _|    '
+                 
 
 
 
