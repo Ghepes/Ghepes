@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ersin84 "Iulian" by Wromo Team
-- 👀 I’m interested in big project and not only, I manage and work to various projects ca wromo.com .net .de .at .ro Apps ISO Flutter Dart & Next.js, Manage 3x Private Hosting Server. Connections Ads. Google Clouds. and every day I discover and learn something new. I live in The Digital World
-- 🌱 I’m currently learning about Flutter Dart Next.js Ads Clouds .PHP .JSON SQL Node.js .py .js 
-- 💞️ I’m looking for collaborate with Team Wromo Studio for new ideas...
-- 📫 How to reach me info.wromo@gmail.com or support@wromo.com contact me if you are looking for a partner I am open to any new idea!
+- 👀 I’m interested in big project and not only, I manage and work to various projects: wromox.cf wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, .PHP .JSON SQL.  I appreciate and like marketing. The services offered by Google Ads end the Cloud which is indispensable.
+- 🌱 I don't understand why people don't unite for collaborations, only together in a team can you succeed ... the bigger a team is, the more inevitable the success on long-term.
+-     
+- 💞️ I’m looking for collaborate ...
+- 📫 How to reach me info.wromo@gmail.com or support@wromo.com contact if you are looking for a partner. I am open!
 {
      
  _|        _|        _|_|_|_|_|     _|_|_|    _|       _|     _| _|_|    '
