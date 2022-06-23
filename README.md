@@ -49,14 +49,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulemon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saifulemon&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 
 <!---
 Ersin84/Ersin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
