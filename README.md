@@ -1,14 +1,10 @@
-- 👋 Hi, I’m "Iulian" nikname @Ersin84 by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo
-
-
-
 
 <p align="center">
   <img alt="GIF" height="275" src="https://github.com/saifulemon/saifulemon/blob/main/hello.gif" />
 </p>
 
-<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm Saiful Emon</h1>
-<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm "Iulian" nikname @Ersin84 by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
+<h3 align="center">A passionate Frontend Web Developer from Studio Wromo</h3>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
