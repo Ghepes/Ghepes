@@ -19,7 +19,7 @@
   
   -- 👀 I’m interested in big project and not only, I manage and work to various projects: wromox.cf wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
   
-  - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3 **
+  - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
   
   - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. I am open!
   
