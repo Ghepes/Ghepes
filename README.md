@@ -27,6 +27,8 @@
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
   
+  <img img.wrox = require('./img.wrox'); />
+
   # 💻 Tech Stack
   <div align="left">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -112,10 +114,13 @@
   
   </div>
   
-  # 📊 GitHub Stats :
+  # 📊 My GitHub Stats :
   ![](https://github-readme-stats.vercel.app/api?username=ersin84&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ersin84&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&count_private=true&hide_border=true" align="left" />
+<br />
   
   ## 🏆 GitHub Trophies
   
