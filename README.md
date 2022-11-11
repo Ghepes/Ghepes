@@ -5,7 +5,7 @@
   
   <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ersin84 or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
   <h3 align="center">A passionate Frontend & Backend Web Developer from Studio Wromo</h3>
-  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/Ersin84/Ersin84/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ersin84/Ersin84/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
 
@@ -42,7 +42,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  
+
   ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
