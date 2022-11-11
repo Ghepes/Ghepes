@@ -3,7 +3,7 @@
     <img alt="GIF" height="275" src="https://github.com/ersin84/ersin84/blob/main/hello.gif" />
   </p>
   
-  <h1 align="center">Hi <img src="https://github.com/Ersin84/Ersin84/blob/main/dev.gif" height="55px" width="55px">, I'm "Iulian Ghepes" github nikname @Ersin84 or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
+  <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ersin84 or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
   <h3 align="center">A passionate Frontend & Backend Web Developer from Studio Wromo</h3>
   <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
   <br/>
