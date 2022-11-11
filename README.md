@@ -21,7 +21,7 @@
   
   - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
   
-  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. Please ONLY looking for people to work together on the Open Source Project!
+  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **Please ONLY looking for people to work together on the Open Source Project!**
   
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
