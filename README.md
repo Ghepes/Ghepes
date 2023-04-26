@@ -115,12 +115,10 @@
   </div>
   
   # 📊 My GitHub Stats :
-  ![](https://github-readme-stats.vercel.app/api?username=ghepes&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghepes&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&count_private=true&hide_border=true" align="left" />
-<br />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghepes)](https://github.com/Ghepes/github-readme-stats)<br/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextWromo)](https://github.com/NextWromo/github-readme-highcontrast)<br/>
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghepes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ghepes/github-readme-stats#gh-dark-mode-only)<br/>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/NextWromo/github-readme-stats#gh-light-mode-only)<br/>
   
   ## 🏆 GitHub Trophies
   
