@@ -22,7 +22,7 @@
   
   - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
   
-  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **Please ONLY looking for people to work together on the Open Source Project!**
+  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **looking to work together on Project!**
   
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
@@ -115,12 +115,10 @@
   </div>
   
   # 📊 My GitHub Stats :
-  ![](https://github-readme-stats.vercel.app/api?username=ghepes&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saifulemon&theme=yeblu&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghepes&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&count_private=true&hide_border=true" align="left" />
-<br />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghepes)](https://github.com/Ghepes/github-readme-stats)<br/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextWromo)](https://github.com/NextWromo/github-readme-highcontrast)<br/>
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghepes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ghepes/github-readme-stats#gh-dark-mode-only)<br/>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/NextWromo/github-readme-stats#gh-light-mode-only)<br/>
   
   ## 🏆 GitHub Trophies
   
