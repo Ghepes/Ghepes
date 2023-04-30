@@ -1,0 +1,581 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+  <head>
+
+    <!-- Display -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+    <!-- Identity -->
+    <title>Wromo - Creative Multipurpose Bootstrap 5 Template</title>
+    <meta name="description" content="Wromo is a creative multipurpose theme for building websites. It is based on Bootstrap 5 and other of the best and most up-to-date code libraries used by professional developers in the world.">
+    <meta name="author" content="Codings">
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+  
+    <!-- Vendor Style Sheet -->
+    <link rel="stylesheet" href="assets/css/vendor/preloader.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/font-family.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/font-awesome.min.css" />  
+    <link rel="stylesheet" href="assets/css/vendor/menu-engine.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/menu-grid.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/dynamic-slider.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/bricklayer.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/lightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/vendor/aos.min.css" />
+  
+    <!-- Main Style Sheet -->
+    <link rel="stylesheet" href="assets/css/theme.css" />
+    <link rel="stylesheet" href="assets/css/core.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  
+  </head>
+
+  <body class="wromo-body">
+
+    <!-- Preloader -->
+    <div id="preloader" class="preloader white" data-delay="0" data-limit="3000">
+      <img src="assets/images/logo-gradient.svg" class="emblem" alt="Emblem" />
+    </div>
+
+    <!-- Popup Bar -->
+    <div id="popup-bar" class="popup-bar bg-gradient scheme-1 shadow d-none">
+      <p class="description white-85">Flash Sale! The best time to buy more licenses.</p>
+      <a href="https://codings.dev/?buy=wromo-html" target="_blank" class="button simple">
+        <span class="button-text white white-hover"><mark class="animated-underline tertiary active">Save Now</mark></span>
+        <i class="fa-solid fa-arrow-right button-icon white white-hover"></i>
+      </a>
+      <button id="popup-bar-dismiss" class="button close-button">
+        <i class="fa-solid fa-xmark button-icon white tertiary-hover"></i>
+      </button>
+    </div>
+
+    <!-- Header -->
+    <header id="header" class="wromo-header">
+      <!-- Navbar -->
+      <nav id="navbar" class="navbar navbar-expand-lg absolute">
+        <div class="container">
+          <!-- Brand -->
+          <a class="navbar-brand" href="/">
+            <!-- <div class="site-title">Site Title</div> -->
+            <img src="assets/images/logo.svg" data-logo-alt="assets/images/logo.svg" data-logo-mobile="assets/images/logo.svg" alt="Wromo Theme" class="logo" />
+            <span class="logo-after-text">WROMO</span>
+          </a>
+          <!-- Menu toggle -->
+          <div id="menu-toggle" class="menu-toggle is-inactive magnetic-effect scheme-3 primary">
+            <div class="menu-toggle-icon">
+              <div class="menu-toggle-container">
+                <span class="menu-toggle-line-top"></span>
+                <span class="menu-toggle-line-middle"></span>
+                <span class="menu-toggle-line-bottom"></span>
+              </div>
+            </div>
+            <div class="menu-toggle-circle">
+              <svg class="menu-toggle-menu-toggle-svg-circle">
+                <path class="menu-toggle-path-circle" fill="none" stroke-miterlimit="10" stroke-width="4" d="M 34 2 C 16.3 2 2 16.3 2 34 s 14.3 32 32 32 s 32 -14.3 32 -32 S 51.7 2 34 2" />
+              </svg>
+            </div>
+            <svg width="0" height="0">
+              <mask id="menu-toggle-mask">
+                <path class="path-mask" fill="none" stroke-miterlimit="10" stroke-width="4" d="M 34 2 c 11.6 0 21.8 6.2 27.4 15.5 c 2.9 4.8 5 16.5 -9.4 16.5 h -4" />
+              </mask>
+            </svg>
+            <div class="menu-toggle-path">
+              <div class="path-animation">
+                <div class="path-rotation"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Menu grid -->
+          <nav id="menu-grid" class="menu-grid scheme-2 primary">
+            <div class="menu-grid-item item-1 shadow" data-direction="rl">
+              <div class="menu-grid-item-inner">
+                <!-- Label -->
+                <div class="menu-grid-label top">
+                  <span class="label-vertical">
+                    <span class="label-line gray"></span>
+                    <span class="label-text gray">SINCE 1986</span>
+                  </span>
+                </div>
+                <!-- Label -->
+                <div class="menu-grid-label bottom">
+                  <span class="label-vertical">
+                    <span class="label-line gray"></span>
+                    <span class="label-text gray">MARKET REFERENCE</span>
+                  </span>
+                </div>
+                <!-- Main menu -->
+                <div class="menu-grid-main">
+                  <a href="#your-link" class="menu-grid-main-item menu-item">Stories</a>
+                  <a href="#your-link" class="menu-grid-main-item menu-item">Portfolio</a>
+                  <a href="#your-link" class="menu-grid-main-item menu-item">Insights</a>
+                  <a href="#your-link" class="menu-grid-main-item menu-item">Contact</a>
+                </div> 
+                <!-- Form -->
+                <div class="menu-grid-search focus-trigger">
+                  <div class="form-area scheme-1 primary">
+                    <form class="form-fields needs-validation" novalidate="novalidate">
+                      <div class="form-row row has-icon">
+                        <div class="form-col form-floating">
+                          <button class="button overlay-button"><i class="fa-solid fa-magnifying-glass overlay-icon"></i></button>
+                          <input id="InputSearchMenu" class="form-control focus-trigger-field" placeholder="Type keywords..." required="required">
+                          <label for="InputSearchMenu" class="form-label">Type keywords...</label>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </nav>   
+    </header>
+
+    <!-- Main -->
+    <main id="main" class="wromo-main">
+
+      <!--  Banner -->
+      <section class="wromo-section pt-2 pb-2 has-holder">
+        <div class="container">
+          <div class="row g-4">
+            <div class="col-12 col-md-6 align-v-center">
+              <!-- Image -->
+              <div class="gallery image-mirror align-h-left">
+                <div class="image-wrapper">
+                  <img src="assets/images/jpg/b-10.jpg" alt="Image name" class="image shadow rounded" />
+                </div>
+                <a href="assets/images/jpg/b-10.jpg" class="mirror-button lightbox-link magnetic-effect">
+                  <i class="fa-solid fa-circle-play mirror-icon primary floating-item"></i>
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 align-v-center">
+              <!-- Intro -->
+              <div class="side-intro">
+                <h1 class="title black">
+                  <span class="text-1 text-style-2 text-outline">We build</span>
+                  <span class="text-2 text-style-3 text-italic">amazing <span class="typed-text"></span></span>
+                </h1>
+                <!-- Srings -->
+                <div id="typed-strings">
+                  <span>projects</span>
+                  <span>things</span>
+                  <span>dreams</span>
+                </div>  
+                <div class="description gray">
+                  <p>Design is a concept that represents the process of creating products based on technical and aesthetic excellence, with the aim of solving problems.</p>
+                </div>
+                <!-- Button -->
+                <a href="#" class="button double-edge transparent black-hover">
+                  <span class="button-text black white-hover">Get Started</span>
+                  <i class="fa-solid fa-arrow-right button-icon black white-hover"></i>
+                  <span class="overlay gray-50 magnetic-effect"></span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Image -->
+      <section class="wromo-section pt-2 pb-2">
+        <div class="container">
+          <div class="row g-4">
+            <div class="col-12 col-md-7 align-v-center">
+              <div class="holder">
+                <!-- Intro -->
+                <div class="basic-intro">
+                  <h2 class="title text-style-3 black">
+                    <span class="text-1 text-outline">Discover</span>
+                    <span class="text-2 text-italic">our history.</span>
+                  </h2>
+                  <div class="description gray">
+                    <p>We keep in mind that we always need to improve everything we do, aiming to help people with our products and services, prioritizing quality.</p>
+                    <p>To connect the brand with the target audience, it is necessary to observe each shape, color, font and style that will compose a subconscious message.</p>
+                  </div>
+                </div>
+                <hr class="gray-25">
+                <figure class="blockquote">
+                  <blockquote class="blockquote-body text-style-11 black">
+                    <p>"The design is not just what it looks like. The design is how it works".</p>
+                  </blockquote>
+                  <figcaption class="blockquote-footer">
+                    <cite title="Source Title">Steve Jobs / Apple Founder</cite>
+                  </figcaption>
+                </figure>
+              </div>
+            </div>
+            <div class="col-12 col-md-5" data-aos="fade-up" data-aos-delay="300">
+              <!-- Image -->
+              <div class="image-wrapper" data-lax="inertia-top">
+                <img src="assets/images/jpg/b-14.jpg" class="image shadow rounded" alt="This is an example description for this item." />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Divider -->
+      <section class="wromo-section pt-5">
+        <div class="container">
+          <span class="zzz large scheme-1 gray-75"></span>
+        </div>
+      </section>
+
+      <!-- Card boxed -->
+      <section class="wromo-section pt-5 pb-6">
+        <div class="container">
+          <div class="row mb-35">
+            <div class="col-12 col-md-8">
+              <!-- Intro -->
+              <div class="basic-intro">
+                <h2 class="title text-style-3 black">
+                  <span class="text-1 text-outline">Expert</span>
+                  <span class="text-2 text-italic">service units.</span>
+                </h2>
+                <div class="description gray">
+                  <p>Over many years of work, we have built a very successful history in our area of expertise.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-4 align-h-right align-v-bottom">
+              <!-- Button -->
+              <a href="#your-link" class="button double-edge mt-3 transparent black-hover">
+                <span class="button-text black white-hover">Read more</span>
+                <i class="fa-solid fa-arrow-right button-icon black white-hover"></i>
+                <span class="overlay gray-50 magnetic-effect"></span>
+              </a>
+            </div>
+          </div>
+          <div class="row g-4">
+            <div class="col-12 col-md-6">
+              <div class="card boxed parent">
+                <!-- Image -->
+                <div class="image-wrapper shadow rounded">
+                  <img src="assets/images/jpg/b-34.jpg" alt="Image name" class="image min-vh-50 fit-cover" />
+                </div>
+                <!-- Box -->
+                <div class="card-body box shadow rounded" data-bg-color="#1e1d25">
+                  <!-- Label -->
+                  <span class="label-vertical outline">
+                    <span class="label-line gray"></span>
+                    <span class="label-text gray">Las Vegas</span>
+                  </span>
+                  <!-- Link -->
+                  <h3 class="title text-style-11 white">
+                    <a href="tel:+19912345678" target="_blank" class="link align-v-center white white-hover hover-up-down">
+                      <i class="fa-solid fa-phone icon"></i>
+                      <span class="text ms-05">+1 (99) 1234 5678</span>
+                      <span class="badge ms-05 primary primary-hover">
+                        <span class="badge-text white white-hover">Mon-Sat</span>
+                      </span>
+                    </a>
+                  </h3>
+                  <p class="description gray">Our headquarters in Las Vegas works for face-to-face from Monday to Saturday for 24 hours.</p>
+                  <div class="list-wrapper align-h-right hover-up-down">
+                    <ul class="icon-h-list">
+                      <li class="item">
+                        <a href="#your-link" target="_blank" class="link white primary-hover hover-rotate"><i class="fa-regular fa-map icon"></i></a>
+                      </li>
+                      <li class="item">
+                        <a href="mailto:contact@mail.com" target="_blank" class="link white primary-hover hover-rotate"><i class="fa-regular fa-envelope icon"></i></a>
+                      </li>
+                      <li class="item">
+                        <a href="https://wa.me/+19912345678?text=Hello..." target="_blank" class="link white primary-hover hover-rotate"><i class="fa-brands fa-whatsapp icon"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="card boxed parent">
+                <!-- Image -->
+                <div class="image-wrapper shadow rounded">
+                  <img src="assets/images/jpg/b-35.jpg" alt="Image name" class="image min-vh-50 fit-cover" />
+                </div>
+                <!-- Box -->
+                <div class="card-body box shadow rounded" data-bg-color="#1e1d25">
+                  <!-- Label -->
+                  <span class="label-vertical outline">
+                    <span class="label-line gray"></span>
+                    <span class="label-text gray">Spring Valley</span>
+                  </span>
+                  <!-- Link -->
+                  <h3 class="title text-style-11 white">
+                    <a href="tel:+19812345678" target="_blank" class="link align-v-center white white-hover hover-up-down">
+                      <i class="fa-solid fa-phone icon"></i>
+                      <span class="text ms-05">+1 (98) 1234 5678</span>
+                      <span class="badge ms-05 primary primary-hover">
+                        <span class="badge-text white white-hover">Mon-Fri</span>
+                      </span>
+                    </a>
+                  </h3>
+                  <p class="description gray">Our branch in Spring Valley works for face-to-face from Monday to Friday from 10 am to 6 pm.</p>
+                  <div class="list-wrapper align-h-right hover-up-down">
+                    <ul class="icon-h-list">
+                      <li class="item">
+                        <a href="#your-link" target="_blank" class="link white primary-hover hover-rotate"><i class="fa-regular fa-map icon"></i></a>
+                      </li>
+                      <li class="item">
+                        <a href="mailto:contact@mail.com" target="_blank" class="link white primary-hover hover-rotate"><i class="fa-regular fa-envelope icon"></i></a>
+                      </li>
+                      <li class="item">
+                        <a href="https://wa.me/+19912345678?text=Hello..." target="_blank" class="link white primary-hover hover-rotate"><i class="fa-brands fa-whatsapp icon"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Map -->
+      <section class="wromo-section">
+        <div id="map-canvas-2" class="vh-50"></div>
+      </section>
+
+    </main>
+
+    <!-- Vertical Lines -->
+    <div class="vertical-lines scheme-1 primary">
+      <div class="row">
+        <div class="col-12 col-md-6 col-lg-4 align-h-center">
+          <span class="line"></span>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 align-h-center">
+          <span class="line"></span>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 align-h-center">
+          <span class="line"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scroll to Top -->
+    <div class="side-widget to-right invert-color mix-blend-difference">
+      <div class="item align-v-bottom">
+        <a href="#" class="link hover-up">
+          <span class="widget float-icon">
+            <i class="fa-solid fa-arrow-up-long icon"></i>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer" class="wromo-footer scheme-2 primary" data-bg-color="#f0f0f2">
+      <div class="footer-content focus-trigger">
+        <div class="container">
+          <div class="row g-3">
+            <div class="col-12 col-md-6 col-lg-3">
+              <div class="footer-item">
+                <!-- Brand -->
+                <a href="/" class="footer-brand floating-item">
+                  <!-- <div class="site-title">Site Title</div> -->
+                  <img src="assets/images/logo.svg" alt="Wromo Theme" class="logo" />
+                  <span class="logo-after-text">WROMO</span>
+                </a>
+                <!-- Text -->
+                <div class="footer-text">
+                  <p>Wromo is a creative multipurpose theme for building websites powered by Bootstrap 5 and other libraries.</p>
+                </div>
+              </div>
+              <div class="footer-item">
+                <h6 class="title">Contact Us</h6>
+                <!-- Links list -->
+                <ul class="nav-list list-unstyled">
+                  <li class="nav-item">
+                    <a href="tel:+19912345678" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/call-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">+1 (99) 1234 5678</span>
+                      <span class="badge flex ms-1 primary primary-hover">
+                        <span class="badge-text white white-hover">Mon-Fri</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="mailto:contact@mail.com" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/mail-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">contact@mail.com</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+              <div class="footer-item">
+                <h6 class="title">Quick Links</h6>
+                <!-- Links list -->
+                <ul class="nav-list list-unstyled">
+                  <li class="nav-item">
+                    <a href="#your-link" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/chevron-forward-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">Who We Are</span>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#your-link" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/chevron-forward-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">Social Projects</span>
+                      <span class="badge flex ms-1 primary primary-hover">
+                        <span class="badge-text white white-hover">New</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#your-link" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/chevron-forward-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">Our Services</span>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#your-link" class="nav-link has-icon">
+                      <img class="image-icon" src="assets/svg/chevron-forward-sharp.svg" alt="Icon name" data-wromo-icon="32" />  
+                      <span class="text">Privacy Police</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="footer-item">
+                <!-- Button -->
+                <a href="#your-link" class="button outline gray primary-hover">
+                  <span class="hover-rotate">
+                    <span class="button-text gray white-hover">Get in Touch</span>
+                    <i class="fa-solid fa-arrow-right button-icon gray white-hover"></i>
+                  </span>
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+              <div class="footer-item">
+                <h6 class="title">Popular Searches</h6>
+                <!-- Tag Cloud -->
+                <div class="tag-cloud">
+                  <a href="#your-link" class="link">
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Environment</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover floating-item-smooth">
+                      <span class="badge-text gray white-hover">Events</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Technology</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Web</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Mobile</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Design</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Branding</span>
+                    </span>
+                  </a>
+                  <a href="#your-link" class="link">                      
+                    <span class="badge outline gray-50 primary-hover">
+                      <span class="badge-text gray white-hover">Development</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+              <div class="footer-item">
+                <h6 class="title">Follow Us</h6>
+                <!-- Icon list -->
+                <div class="list-wrapper">
+                  <ul class="icon-h-list">
+                    <li class="ms-0 item">
+                      <a href="#your-link" class="link gray primary-hover hover-rotate"><i class="icon fab fa-facebook-f"></i></a>
+                    </li>
+                    <li class="item">
+                      <a href="#your-link" class="link gray primary-hover hover-rotate"><i class="icon fab fa-twitter"></i></a>
+                    </li>
+                    <li class="item">
+                      <a href="#your-link" class="link gray primary-hover hover-rotate"><i class="icon fab fa-linkedin-in"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+              <div class="footer-item">
+                <h6 class="title">Inspirations</h6>
+                <!-- Image -->
+                <a href="#your-link" class="footer-image black">
+                  <img src="assets/images/jpg/b-14.jpg" alt="Image name" class="image shadow">
+                  <span class="title">View Portfolio</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-bar" data-bg-color="#f0f0f2">
+        <div class="text">© 2023 - All rights reserved. The <a href="https://codings.dev?redirect=wromo-html" class="link gray primary-hover"><u>Wromo Theme</u></a> is developed and maintained by <a href="https://codings.dev?ref=wromo-html" class="link gray primary-hover"><u>Codings Group</u></a>.</div>
+      </div>
+    </footer>
+    
+    <!-- Cursor -->
+    <svg class="cursor-effect black" width="220" height="220" viewBox="0 0 220 220">
+      <defs>
+        <filter id="cursor-effect-filter" x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox">
+          <feTurbulence type="fractalNoise" baseFrequency="0" numOctaves="1" result="warp"></feTurbulence>
+          <feOffset dx="-30" result="warpOffset"></feOffset>
+          <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="20" in="SourceGraphic" in2="warpOffset"></feDisplacementMap>
+        </filter>
+      </defs>
+      <circle class="cursor-effect-inner" cx="110" cy="110" r="20"></circle>
+    </svg>
+
+    <!-- Google Maps API: https://developers.google.com/maps/get-started -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6s7QK-BWbYB_brkdZU-C1Ex_lwj8SBCw"></script>
+
+    <!-- Vendor JavaScript -->
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <script src="assets/js/vendor/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/vendor/preloader.min.js"></script>
+    <script src="assets/js/vendor/inview.min.js"></script>
+    <script src="assets/js/vendor/menu-engine.min.js"></script>
+    <script src="assets/js/vendor/menu-grid.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/swiper.min.js"></script>
+    <script src="assets/js/vendor/anime.min.js"></script>
+    <script src="assets/js/vendor/dynamic-slider.min.js"></script>
+    <script src="assets/js/vendor/shuffle.min.js"></script>
+    <script src="assets/js/vendor/stickybits.min.js"></script>
+    <script src="assets/js/vendor/bricklayer.min.js"></script>
+    <script src="assets/js/vendor/lightbox.min.js"></script>
+    <script src="assets/js/vendor/typed.min.js"></script>
+    <script src="assets/js/vendor/progressbar.min.js"></script>
+    <script src="assets/js/vendor/map-styles.min.js"></script>
+    <script src="assets/js/vendor/magnetic-effect.min.js"></script>
+    <script src="assets/js/vendor/gsap.min.js"></script>
+    <script src="assets/js/vendor/aos.min.js"></script>
+    <script src="assets/js/vendor/lax.min.js"></script>
+    <script src="assets/js/vendor/cursor-effect.min.js"></script>
+
+    <!-- Main JavaScript -->
+    <script src="assets/js/main.js"></script>
+
+  </body>
+</html>
