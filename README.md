@@ -4,7 +4,7 @@
   </p>
   
   <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ghepes or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
-  <h3 align="center">A passionate Frontend & Backend Web Developer from Studio Wromo</h3>
+  <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo</h3>
   <p align="center"><img src="https://raw.githubusercontent.com/Ersin84/Ersin84/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ersin84/Ersin84/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
@@ -14,11 +14,11 @@
   
   - 🌱 Top project **Node.JS, React, Python, TypeScript**
   
-  - 👨‍💻 All of my projects are available at https://github.com/Ghepes
+  - 👨‍💻 All of my projects are available at https://github.com/Ghepes  supports the Open Source ecosystem
   
-  - 💞️ I’m looking for collaborate ... only together in a team can you succeed ... the bigger a team is, the more inevitable the success on long-term.
+  - 💞️ I’m looking for collaborate ... together supports the Open Source ecosystem ...  success on long-term.
   
-  - 👀 I’m interested in big project and not only, I manage and work to various projects: wromox.cf wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
+  - 👀 I’m interested in project Open Source, I manage and work to various projects: Studio Wromo Marketplace wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
   
   - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
   
@@ -26,8 +26,7 @@
   
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
-  
-  import img.wrox from /img.wrox
+
 
   # 💻 Wromo Stack
   <div align="left">  
