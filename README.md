@@ -8,10 +8,17 @@
   <p align="center"><img src="https://raw.githubusercontent.com/Ersin84/Ersin84/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ersin84/Ersin84/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
-<iframe src="https://github.com/sponsors/Wromo/button" title="Sponsor Wromo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<iframe src="https://github.com/sponsors/Wromo/card" title="Sponsor Wromo" height="225" width="600" style="border: 0;"></iframe>
-  
-  # 💫 About Me :✨✨✨✨✨Iulian Ghepes
+
+Sponsor:
+<div align="center"> 
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Ghepes/Ghepes/assets/39159631/c14082fa-69e2-4ea8-a840-5507b7e2cbbd" alt="React" height="25" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Ghepes/Ghepes/assets/39159631/a6e91612-a81b-4dbe-bc52-f6c1569f08fe" alt="React" height="25" /></a>
+ [sponsor](https://github.com/Ghepes/Ghepes/assets/39159631/c14082fa-69e2-4ea8-a840-5507b7e2cbbd) 
+    ![sponsor-wromo](https://github.com/Ghepes/Ghepes/assets/39159631/a6e91612-a81b-4dbe-bc52-f6c1569f08fe)
+
+    
+  # 💫 About Me :✨✨✨✨✨Iulian Ghepes!
+
   
   - 🌱 Top project **Node.JS, React, Python, TypeScript**
   
