@@ -11,10 +11,9 @@
 
 Sponsor:
 <div align="center"> 
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Ghepes/Ghepes/assets/39159631/c14082fa-69e2-4ea8-a840-5507b7e2cbbd" alt="React" height="25" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Ghepes/Ghepes/assets/39159631/a6e91612-a81b-4dbe-bc52-f6c1569f08fe" alt="React" height="25" /></a>
- [sponsor](https://github.com/Ghepes/Ghepes/assets/39159631/c14082fa-69e2-4ea8-a840-5507b7e2cbbd) 
-    ![sponsor-wromo](https://github.com/Ghepes/Ghepes/assets/39159631/a6e91612-a81b-4dbe-bc52-f6c1569f08fe)
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="[Buton](https://github-production-user-asset-6210df.s3.amazonaws.com/39159631/244456457-c14082fa-69e2-4ea8-a840-5507b7e2cbbd.png)" alt="React" height="25" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="[Sponsor](https://github-production-user-asset-6210df.s3.amazonaws.com/39159631/244456731-a6e91612-a81b-4dbe-bc52-f6c1569f08fe.png)" alt="React" height="25" /></a>
+
 
     
   # 💫 About Me :✨✨✨✨✨Iulian Ghepes!
