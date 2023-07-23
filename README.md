@@ -1,13 +1,12 @@
-
 <p align="center">
-    <img alt="GIF" height="275" src="https://github.com/ersin84/ersin84/blob/main/hello.gif" />
+    <img alt="GIF" height="275" src="https://github.com/Ghepes/Ghepes/blob/main/hello.gif" />
   </p>
   
   <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ghepes or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
   <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo</h3>
-  <p align="center"><img src="https://raw.githubusercontent.com/Ersin84/Ersin84/main/dev2.gif" width="600" height="300"  /></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/Ghepes/Ghepes/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
-  <p align="left"> <img src="https://raw.githubusercontent.com/Ersin84/Ersin84/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
+  <p align="left"> <img src="https://raw.githubusercontent.com/Ghepes/Ghepes/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
 
 Sponsor:
 <div align="center"> 
@@ -125,13 +124,16 @@ Sponsor:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextWromo)](https://github.com/NextWromo/github-readme-highcontrast)<br/>
   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ghepes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ghepes/github-readme-stats#gh-dark-mode-only)<br/>
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NextWromo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/NextWromo/github-readme-stats#gh-light-mode-only)<br/>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=UI-APPS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/UI-APPS/github-readme-stats#gh-light-mode-only)<br/>
+  
   
   ## 🏆 GitHub Trophies
   
   ### ✍️ Random Dev Quote
   
   <!---
-  Ersin84/Ersin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Ghepes/Ghepes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
   --->
   
+
