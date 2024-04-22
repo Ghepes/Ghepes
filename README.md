@@ -1,6 +1,17 @@
 <p align="center">
     <img alt="GIF" height="275" src="https://github.com/Ghepes/Ghepes/blob/main/hello.gif" />
   </p>
+
+### GitHub Analytics
+ 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Ghepes&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Ghepes&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Ghepes&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghepes&layout=compact&langs_count=7&theme=dracula"/>
+
+### Connect with me
+<a href="https://www.linkedin.com/in/iulian-ghepes-a7413b210/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Wromo by Ghepes.com" /></a>
+
+  <br>
   
   <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ghepes or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
   <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo</h3>
