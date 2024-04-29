@@ -1,0 +1,18 @@
+Configuring MySQL to allow remote connections
+You need to modify the MySQL configuration file, usually called my.cnf or mysqld.cnf, which can be in different locations depending on your operating system and MySQL installation. In this file, look for the line that starts with bind-address. This is the IP address that MySQL is listening on. To allow remote connections, you need to set this to 0.0.0.0:
+
+bind-address = 0.0.0.0
+Save the file and restart the MySQL service.
+Configuring the firewall to allow connections to the MySQL port
+Depending on the operating system and firewall you are using, the exact command may vary. In general, you will need to add a rule that allows traffic on port 3306 (MySQL's default port).
+If you are using ufw on Ubuntu, the command would be:
+
+sudo ufw allow 3306
+If you are using firewalld on an RPM-based system, the command would be:
+
+sudo firewall-cmd --zone=public --add-port=3306/tcp --permanent
+sudo firewall-cmd --reload
+
+Be sure to replace public with your zone name if you are not using the public zone.
+If you are using Docker and want to allow access to the Docker API remotely, you must configure your firewall to allow connections to the Docker port. The default port is 2376 if you are using TLS encrypted transport, or 2375 otherwise. See your operating system and firewall documentation for how to do this (source).
+Note that these instructions are general and may vary depending on your specific system configuration. If you encounter problems, I recommend that you consult the documentation specific to your operating system and MySQL server.
