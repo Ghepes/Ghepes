@@ -35,7 +35,7 @@ Sponsor:
   
   - 💞️ I’m looking for collaborate ... together supports the Open Source ecosystem ...  success on long-term.
   
-  - 👀 I’m interested in project Open Source, I manage and work to various projects: Studio Wromo Marketplace wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
+  - 👀 I’m interested in project Open Source, I manage and work to various projects: Studio Wromo Marketplace company.wromo.com  wromo.com .net .de .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
   
   - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
   
@@ -62,7 +62,9 @@ Sponsor:
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 
   ## Languages and Tools  
-<div align="center">  
+<div align="center">
+<a href="https://nodered.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/f17d004f-6d90-4c49-895c-22428921de24" alt="NODE RED" height="25" /></a>      
+<a href="https://aws.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/fc99b29d-7457-4cb9-85e5-99179e63d653" alt="AWS" height="25" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
