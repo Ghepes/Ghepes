@@ -1,5 +1,6 @@
 <p align="center">
-    <img alt="GIF" height="275" src="https://github.com/Ghepes/Ghepes/blob/main/hello.gif" />
+    <img alt="GIF" height="275" src="https://raw.githubusercontent.com/Ghepes/Ghepes/refs/heads/main/hello.gif" />
+
   </p>
 
 ### GitHub Analytics
