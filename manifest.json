@@ -1,0 +1,62 @@
+{
+  "name": "GitHub profil Ghepes",
+  "short_name": "Ghepes by Github",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "114x114",
+      "src": "https://github.githubassets.com/assets/apple-touch-icon-114x114-09ce42d3ca4b.png"
+    },
+    {
+      "sizes": "120x120",
+      "src": "https://github.githubassets.com/assets/apple-touch-icon-120x120-92bd46d04241.png"
+    },
+    {
+      "sizes": "144x144",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=144&v=4"
+    },
+    {
+      "sizes": "152x152",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=152&v=4"
+    },
+    {
+      "sizes": "180x180",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=180&v=4"
+    },
+    {
+      "sizes": "57x57",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=57&v=4"
+    },
+    {
+      "sizes": "60x60",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=60&v=4"
+    },
+    {
+      "sizes": "72x72",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=72&v=4"
+    },
+    {
+      "sizes": "76x76",
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=76&v=4"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=192&v=4",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://avatars.githubusercontent.com/u/39159631?s=512&v=4",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.github.android",
+      "id": "com.github.android"
+    }
+  ]
+}
