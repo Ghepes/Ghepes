@@ -14,8 +14,8 @@
 
   <br>
   
-  <h1 align="center">Hi, I'm "Iulian Ghepes" github nikname @Ghepes or @NextWromo by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
-  <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo</h3>
+  <h1 align="center">Hi, I'm "Iulian Ghepes" github aka @Ghepes or @NextWromo 🚀 Founder of Studio Wromo - Marketplace - Webdesign 🚀 Founder of ui-app.com Author Dev. UI-APP</h1>
+  <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo or for the community delivery of Theme and global plugins</h3>
   <p align="center"><img src="https://raw.githubusercontent.com/Ghepes/Ghepes/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ghepes/Ghepes/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
@@ -27,7 +27,7 @@ Sponsor:
 
 
     
-  # 💫 About Me :✨✨✨✨✨Iulian Ghepes!
+  # 💫 About Me :✨✨✨✨✨Iulian Ghepes CEO & Developer! 
 
   
   - 🌱 Top project **Node.JS, React, Python, TypeScript**
