@@ -4,8 +4,8 @@
   </p>
 
 ### GitHub Analytics
- 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Ghepes&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Ghepes&theme=react" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ghepes&card_width=800" alt="GitHub Streak" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Ghepes&count_private=true&show_icons=true&theme=react" />  
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Ghepes&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghepes&layout=compact&langs_count=7&theme=dracula"/>
 
