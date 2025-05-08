@@ -1,7 +1,4 @@
-<p align="center">
-    <img alt="GIF" height="275" src="https://raw.githubusercontent.com/Ghepes/Ghepes/refs/heads/main/hello.gif" />
-
-  </p>
+<p align="auto"><img alt="GIF" height="275" src="https://raw.githubusercontent.com/Ghepes/Ghepes/refs/heads/main/hello.gif" /></p>
 
 ### GitHub Analytics
 
