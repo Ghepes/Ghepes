@@ -13,6 +13,7 @@
   
   <h1 align="center">Hi, I'm "Iulian Ghepes" github aka @Ghepes 🚀 Founder of Studio Wromo - Marketplace - Webdesign 🚀 Founder of ui-app.com Author Dev. UI-APP</h1>
   <h3 align="center">A passionate 360° Engineer Full-Stack Developer + DevOps + System Administrator.</h3>
+  <h6 align="center">My favorite tools are HTML, JavaScript, CSS, and JSON, along with working extensively with APIs. I am highly passionate about developing projects that use minimal resources, are designed with long-term impact, and are optimized for maximum efficiency—for example, aiming to consume no more than a single API call.</h6>
   <p align="center"><img src="https://raw.githubusercontent.com/Ghepes/Ghepes/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ghepes/Ghepes/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
