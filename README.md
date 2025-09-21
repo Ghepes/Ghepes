@@ -11,8 +11,8 @@
 
   <br>
   
-  <h1 align="center">Hi, I'm "Iulian Ghepes" github aka @Ghepes or @NextWromo 🚀 Founder of Studio Wromo - Marketplace - Webdesign 🚀 Founder of ui-app.com Author Dev. UI-APP</h1>
-  <h3 align="center">A passionate Frontend & Backend Developer from Studio Wromo or for the community delivery of Theme and global plugins</h3>
+  <h1 align="center">Hi, I'm "Iulian Ghepes" github aka @Ghepes 🚀 Founder of Studio Wromo - Marketplace - Webdesign 🚀 Founder of ui-app.com Author Dev. UI-APP</h1>
+  <h3 align="center">A passionate 360° Engineer Full-Stack Developer + DevOps + System Administrator.</h3>
   <p align="center"><img src="https://raw.githubusercontent.com/Ghepes/Ghepes/main/dev2.gif" width="600" height="300"  /></p>
   <br/>
   <p align="left"> <img src="https://raw.githubusercontent.com/Ghepes/Ghepes/c413cb733aa61367503683ac3c3321faeb5e9abc/Download.svg" alt="saifulemon" /> </p>
@@ -24,20 +24,20 @@ Sponsor:
 
 
     
-  # 💫 About Me :✨✨✨✨✨Iulian Ghepes CEO & Developer! 
+  # 💫 About Me : 360° Engineer ✨✨✨✨✨ Iulian Ghepes - I am a CEO, a Developer, and a Worker – Full-Stack Engineer, Systems Engineer / Infrastructure Engineer, DevOps Engineer! 
 
   
-  - 🌱 Top project **Node.JS, React, Python, TypeScript**
+  - 🌱 Top project **HTML, JS, CSS, JSON, Buckets Storage, APIs, Cloud RUN Functions, Ai, Networking**
   
   - 👨‍💻 All of my projects are available at https://github.com/Ghepes  supports the Open Source ecosystem
   
   - 💞️ I’m looking for collaborate ... together supports the Open Source ecosystem ...  success on long-term.
   
-  - 👀 I’m interested in project Open Source, I manage and work to various projects: Studio Wromo Marketplace company.wromo.com  wromo.com .net .de .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
+  - 👀  I’m the project, I manage 360° Engineer projects: Studio Wromo Marketplace https://company.wromo.com https://wromo.com https://ui-app.com https://vendor.ui-app.com https://user.ui-app.com https://dashboard.phonoa.com Apps ISO Android Full-Stack Developer + DevOps + System Administrator.
   
-  - 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3, PHP, TypeScript **
+  - 💬 Ask me about ** HTML, JS, CSS, JSON, Buckets Storage, APIs, Cloud RUN Functions, Node.JS, React, Python, Ai, PHP, TypeScript, Server, Cluster, Ai, Domain, Networking **
   
-  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **looking to work together on Project!**
+  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **or a passionate 360° Engineer!**
   
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
