@@ -34,7 +34,7 @@ Sponsor:
   
   - 💞️ I’m looking for collaborate ... together supports the Open Source ecosystem ...  success on long-term.
   
-  - 👀  I’m the project, I manage 360° Engineer projects: Studio Wromo Marketplace https://company.wromo.com https://wromo.com https://ui-app.com https://vendor.ui-app.com https://user.ui-app.com https://dashboard.phonoa.com Apps ISO Android Full-Stack Developer + DevOps + System Administrator.
+  - 👀  I’m the project, I manage 360° Engineer projects: Studio Wromo Marketplace https://company.wromo.com https://wromo.com https://ui-app.com https://vendor.ui-app.com https://user.ui-app.com https://dashboard.phonoa.com https://clipo.live Apps lSO Android Full-Stack Developer + DevOps + System Administrator.
   
   - 💬 Ask me about ** HTML, JS, CSS, JSON, Buckets Storage, APIs, Cloud RUN Functions, Node.JS, React, Python, Ai, PHP, TypeScript, Server, Cluster, Ai, Domain, Networking **
   
