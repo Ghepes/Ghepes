@@ -28,17 +28,17 @@ Sponsor:
   # 💫 About Me : 360° Engineer ✨✨✨✨✨ Iulian Ghepes - I am a CEO, a Developer, and a Worker – Full-Stack Engineer, Systems Engineer / Infrastructure Engineer, DevOps Engineer! 
 
   
-  - 🌱 Top project **HTML, JS, CSS, JSON, Buckets Storage, APIs, Cloud RUN Functions, Ai, Networking**
+  - 🌱 Top project ** Cloud & Serverless Expertise: intensively with the Google Cloud Platform (GCP). To build scalable, serverless architectures. • AI Integration & Automation: The crucial difference between local AI computing and efficient API  integration. With projects like ai.clipo.live, Ability to implement complex tasks such as image recognition (FoodScanning), barcode validation, and payment integration into high-performance apps. • Full-Stack & DevOps: From custom IPv4 infrastructures and VMs to custom plugins and Docker containers, I master the entire chain from A to Z. • Efficiency through AI: I strategically use AI tools to massively accelerate development processes (such as content creation or code structuring) without losing technical precision.**
   
-  - 👨‍💻 All of my projects are available at https://github.com/Ghepes  supports the Open Source ecosystem
+  - 👨‍💻 All of my projects are available at https://wromo.com  supports the Open Source ecosystem
   
   - 💞️ I’m looking for collaborate ... together supports the Open Source ecosystem ...  success on long-term.
   
   - 👀  I’m the project, I manage 360° Engineer projects: Studio Wromo Marketplace https://company.wromo.com https://wromo.com https://ui-app.com https://vendor.ui-app.com https://user.ui-app.com https://dashboard.phonoa.com https://clipo.live Apps lSO Android Full-Stack Developer + DevOps + System Administrator.
   
-  - 💬 Ask me about ** HTML, JS, CSS, JSON, Buckets Storage, APIs, Cloud RUN Functions, Node.JS, React, Python, Ai, PHP, TypeScript, Server, Cluster, Ai, Domain, Networking **
+  - 💬 Ask me about ** HTML, JS, CSS, JSON, Buckets Storage, APIs, serveless Cloud RUN Functions, Node.JS, React, Python, Ai, PHP, TypeScript, Server, Cluster, Ai, Domain, Networking **
   
-  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **or a passionate 360° Engineer!**
+  - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. **or a master passionate 360° Engineer!**
   
   ## 🌐 Socials
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nexttipps/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bestof_ads/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wromo-team-a7413b210/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WromoShop) 
